@@ -6,5 +6,4 @@ Full time Qubes/Linux user and Two Steps From Hell listner.
 [![HackerNCoder's github stats](https://github-readme-stats.vercel.app/api?username=hackerncoder&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- I’m currently helping with Invidous, contain-google and over at Qubes.
-- I’m currently learning Python.
+I haven't done much here on Github the last few months, I've been more over at https://gitlab.torproject.org. So don't expect me to see stuff for some time.
